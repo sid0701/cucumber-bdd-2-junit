@@ -1,0 +1,10 @@
+Nov 19, 2024 2:18:35 PM hudson.remoting.Launcher createEngine
+INFO: Setting up agent: Node1
+Nov 19, 2024 2:18:35 PM hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 3283.v92c105e0f819
+Nov 19, 2024 2:18:35 PM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using C:\Users\DELL\OneDrive\Desktop\Cucumber-Selenium-Java\Cucumber BDD By Rahul Shetty\jenkins\node1\remoting as a remoting work directory
+Nov 19, 2024 2:18:35 PM hudson.remoting.Launcher$CuiListener status
+INFO: WebSocket connection open
+Nov 19, 2024 2:18:35 PM hudson.remoting.Launcher$CuiListener status
+INFO: Connected
